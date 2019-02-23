@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WikiData Go</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="content" formatted="true">
+        Welcome to WikiData,\n\n
+    WikiData contains three basic features:\n
+        1)Weather\n
+        2)Movies info\n
+        3)ask anything\n
+
+        Weather,works on OpenWeathermap API(application programming interface) means it sends a get
+        request to the OpenWeatherMap api and the API send back the usful info.
+        in Weather app you will be provided with a edit text field and you have to type the name of
+        city whose weather you want to check.\n\n
+
+        Movies info works on OMDB(open movies database) api,the api functioning is same as in the
+        Weather app\n\n
+
+        In Ask anyhthing activity you can pass anything in the edittext.
+        (ALL THE EDIT TEXT INPUTS MUST BE CORRECTLY SPELLED FOR EXPECTED OUTCOME
+        )
+    </string>
+</resources>
